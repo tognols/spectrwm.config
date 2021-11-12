@@ -7,4 +7,4 @@ Copy `.spectrwm.conf` to ~
 ## Dependencies
 
 * Feh
-* idk this is the first commit
+
