@@ -4,10 +4,10 @@ cd .local/bin
 chmod +x *.*
 cd ../..
 cp -r .local ~
-cd spectrwm
+cd spectrwm/linux
 make
 sudo make install
-cd ..
+cd ../..
 cp .spectrwm.conf ~
 
 echo "Successfully installed"
