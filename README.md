@@ -1,7 +1,5 @@
 # Actual Spectrwm config
 
-!! Make sure to build Spectrwm from `spectrwm` folder. !!
-
 `chmod +x install.sh`
 Exec `install.sh`.
 
