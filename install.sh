@@ -9,5 +9,9 @@ make
 sudo make install
 cd ../..
 cp .spectrwm.conf ~
+cp -r .urxvt ~
+cp .Xresources ~
+cp nordwal.png ~ 
+xrdb -merge .Xresources
 
 echo "Successfully installed"
