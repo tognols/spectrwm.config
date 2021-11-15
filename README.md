@@ -15,7 +15,7 @@ For this config:
 * urxvt with extensions
 
 For building spectrwm:
-* `sudo apt install libx11-dev libxcursor-dev libxft-dev libfreetype6-dev libx11-xcb-dev libxcb-*`
+* `sudo apt install libx11-dev libxcursor-dev libxft-dev libfreetype6-dev libx11-xcb-dev libxcb-* libxt-dev libxrandr-dev`
 
 then exec `install.sh`
 
